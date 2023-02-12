@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/multiproject.iml" filepath="$PROJECT_DIR$/.idea/multiproject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/api/multiproject.api.iml" filepath="$PROJECT_DIR$/.idea/modules/api/multiproject.api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/api/multiproject.api.main.iml" filepath="$PROJECT_DIR$/.idea/modules/api/multiproject.api.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/api/multiproject.api.test.iml" filepath="$PROJECT_DIR$/.idea/modules/api/multiproject.api.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/core/multiproject.core.iml" filepath="$PROJECT_DIR$/.idea/modules/core/multiproject.core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/core/multiproject.core.main.iml" filepath="$PROJECT_DIR$/.idea/modules/core/multiproject.core.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/core/multiproject.core.test.iml" filepath="$PROJECT_DIR$/.idea/modules/core/multiproject.core.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/multiproject.main.iml" filepath="$PROJECT_DIR$/.idea/modules/multiproject.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/multiproject.test.iml" filepath="$PROJECT_DIR$/.idea/modules/multiproject.test.iml" />
+    </modules>
+  </component>
+</project>
